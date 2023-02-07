@@ -61,7 +61,7 @@ function criaCalculadora() {
                 }
                 
                 if(el.classList.contains('btn-clear')) {
-                    this.clearDislplay();
+                    this.clearDisplay();
                 }
 
                 if(el.classList.contains('btn-del')) {
